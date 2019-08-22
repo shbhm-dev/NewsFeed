@@ -127,15 +127,7 @@ class NewsFeedViewController: UIViewController {
     
     
     @IBAction func refreshBtnPressed(_ sender: Any) {
-        if(c<=20)
-        {c = c+1;
-        print("####",c);
-        get_news(url: url, i: c)
-        }
-        else
-        {
-            self.view.makeToast("News Feed Up To Date Comeback After 15 Mins")
-                  }
+     get_news(url: url,i: 0)
     }
     
     
