@@ -1,6 +1,6 @@
 
 ![](ezgif.com-crop.gif)
-![Screenshot](s2.png)
-![Screenshot](s1.png)
+![Screenshot](s2.png) ![Screenshot](s1.png)
+
 # NewsFeed
 
